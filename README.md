@@ -36,7 +36,7 @@ Welcome to the **Build Your Own Shell** project! In this project, we simulate a 
 
 To run this project locally, ensure you have the following installed:
 
-- **Java 8 or later** – The shell is implemented in Java. Ensure that `java` and `javac` are available in your terminal.
+- **Java 17 or later** – The shell is implemented in Java. Ensure that `java` and `javac` are available in your terminal.
 - **Maven** – We use Maven for building the project.
 
 ### Cloning the Repository
